@@ -1,0 +1,6 @@
+{
+  "name": "Indian Legal Citation Checker",
+  "description": "Open-source legal research utility to extract, normalize, match, and verify Indian court citations against the Open India Law corpus with source provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
